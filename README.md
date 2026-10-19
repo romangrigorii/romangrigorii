@@ -5,4 +5,5 @@
 ### Projects
 
 * [AnyConvert](https://github.com/InQueApps/unimediaconv)
+* [VisionTechAI](https://github.com/InQueApps/VisionTechAI)
 * Owner of [@InQueApps](https://github.com/InQueApps)

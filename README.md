@@ -6,4 +6,6 @@
 
 * [AnyConvert](https://github.com/InQueApps/unimediaconv)
 * [VisionTechAI](https://github.com/InQueApps/VisionTechAI)
+* [RenderingEngine](https://github.com/Vipresz/RenderingEngine) — C++ game engine with ECS, OpenGL rendering, and input
 * Owner of [@InQueApps](https://github.com/InQueApps)
+* Owner of [@Vipresz](https://github.com/Vipresz)

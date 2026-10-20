@@ -1,5 +1,8 @@
-﻿<p align="center">
-  <img src="assets/profile-strip.gif" alt="Thin signal strip" width="100%">
+<p align="center">
+  <img src="assets/giphy2.gif" alt="" width="24%">
+  <img src="assets/giphy3.gif" alt="" width="24%">
+  <img src="assets/giphy4.gif" alt="" width="24%">
+  <img src="assets/giphy.gif" alt="" width="24%">
 </p>
 
 ### Projects
